@@ -26,7 +26,7 @@ home position.
 ●​ Tkinter, a python library is used to create a simple GUI for the user to select a table for food
 delivery in the cafe. 
 
-●​ Usage of ROS2 Action Server and Client to set the goal pose and obtain the robot's feedback towards goal continuously. 
+●​ Action Server and Client were used for advanced control of the Autonomous Mobile Robot (AMR) during food delivery tasks in a cafe environment. 
 
 
 To launch the robot:
