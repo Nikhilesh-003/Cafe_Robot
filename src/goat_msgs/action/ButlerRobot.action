@@ -1,0 +1,10 @@
+#Goal
+int32 table_number
+string order_id
+---
+#Result
+bool success
+string result_message
+---
+#Feedback
+string status_message

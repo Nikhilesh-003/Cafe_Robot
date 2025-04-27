@@ -1,0 +1,9 @@
+# Goal definition
+int32[] tables
+bool require_confirmation
+---
+# Result definition
+bool success
+---
+# Feedback definition
+string status

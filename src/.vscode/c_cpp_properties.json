@@ -1,0 +1,50 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/niki/automation_ws/install/automation_msgs/include/**",
+        "/home/niki/automation_ws/install/automation_controller/include/**",
+        "/home/niki/arduinobot_ws/install/arduinobot_msgs/include/**",
+        "/home/niki/wolf_ws/install/teleop_twist_joy/include/**",
+        "/home/niki/colcon_ws/install/realsense_gazebo_plugin/include/**",
+        "/home/niki/colcon_ws/install/linkattacher_msgs/include/**",
+        "/home/niki/sjtu_drone_ws/install/sjtu_drone_description/include/**",
+        "/home/niki/bumperbot_ws/install/bumperbot_cpp_examples/include/**",
+        "/home/niki/bumperbot_ws/install/bumperbot_msgs/include/**",
+        "/home/niki/bumperbot_ws/install/bumperbot_localization/include/**",
+        "/home/niki/bumperbot_ws/install/bumperbot_controller/include/**",
+        "/home/niki/ros2_ws/install/pilz_industrial_motion_planner_testutils/include/**",
+        "/home/niki/ros2_ws/install/ndt_omp/include/**",
+        "/home/niki/ros2_ws/install/moveit_ros_control_interface/include/**",
+        "/home/niki/ros2_ws/install/moveit_simple_controller_manager/include/**",
+        "/home/niki/ros2_ws/install/moveit_ros_planning_interface/include/**",
+        "/home/niki/ros2_ws/install/moveit_ros_benchmarks/include/**",
+        "/home/niki/ros2_ws/install/moveit_ros_warehouse/include/**",
+        "/home/niki/ros2_ws/install/moveit_ros_robot_interaction/include/**",
+        "/home/niki/ros2_ws/install/moveit_ros_perception/include/**",
+        "/home/niki/ros2_ws/install/moveit_ros_move_group/include/**",
+        "/home/niki/ros2_ws/install/moveit_planners_ompl/include/**",
+        "/home/niki/ros2_ws/install/moveit_ros_planning/include/**",
+        "/home/niki/ros2_ws/install/moveit_ros_occupancy_map_monitor/include/**",
+        "/home/niki/ros2_ws/install/moveit_kinematics/include/**",
+        "/home/niki/ros2_ws/install/chomp_motion_planner/include/**",
+        "/home/niki/ros2_ws/install/moveit_core/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/niki/goat_ws/src/goat_description/include/**",
+        "/home/niki/goat_ws/src/goat_examples/include/**",
+        "/home/niki/goat_ws/src/goat_msgs/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

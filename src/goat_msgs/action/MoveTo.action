@@ -1,0 +1,8 @@
+# Goal
+string[] target_locations
+---
+# Result
+bool success
+---
+# Feedback
+string feedback
