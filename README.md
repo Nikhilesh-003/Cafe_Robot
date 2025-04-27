@@ -34,5 +34,6 @@ To launch the robot:
 ros2 launch goat_description ign.launch.py
 ```
 
-![Screenshot from 2025-04-27 11-14-07](https://github.com/user-attachments/assets/37c3730e-8d77-42a8-9c8d-eee87452b205)
+![Screenshot from 2025-04-27 11-23-09](https://github.com/user-attachments/assets/ee16097d-e887-49d4-952b-11ee291cdf1f)
+
 
